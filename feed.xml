@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cormac Auty</title>
+  <subtitle>new posts from Cormac's blog</subtitle>
+  <link href="https://cormacauty.com/feed.xml" rel="self"/>
+  <link href="https://cormacauty.com" rel="alternate"/>
+  <icon>https://cormacauty.com/assets/a49c92ef-5e94-4c17-a4a5-2a949fe2b38f.jpeg</icon>
+  <id>https://cormacauty.com</id>
+  <updated>2026-02-09T13:37:56Z</updated>
+  <author>
+    <name>Cormac Auty</name>
+  </author>
+  <entry>
+    <title>Cutting Through the Tech Hype - My Journey Away from Unnecessary Purchases</title>
+    <link href="https://github.com/Cormacauty/newposts/releases/tag/announce"/>
+    <id>https://github.com/Cormacauty/newposts/releases/tag/announce</id>
+    <updated>2026-02-09T13:37:56Z</updated>
+    <published>2026-02-09T13:37:56Z</published>
+    <content type="html">Hello,
+
+I have written a bit of a rambly post about tech-related things I avoid spending money on. Here is the post: https://cormacauty.com/writing/UnwisePurchases
+
+Hopefully there might be some useful things for you to ponder here...
+
+Best,
+Cormac</content>
+    <author>
+      <name>Cormac Auty</name>
+    </author>
+  </entry>
+</feed>
